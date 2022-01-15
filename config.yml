@@ -1,0 +1,6 @@
+PG:
+    user: youruser
+    password: yourpswd
+    host: localhost
+    port: yourport
+    database: yourdatabase
