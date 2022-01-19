@@ -1,0 +1,201 @@
+trigrams	frequency	trigrams_traduit	POS tagged	Lemma	Vader Sentiment	Vader Analysis
+chegou antes prazo	1108	arrived before deadline	[('arrived', 'v'), ('before', None), ('deadline', 'n')]	  arrive before deadline	0.0	Neutral
+bem antes prazo	706	well-term	[('well-term', 'n')]	  well-term	0.0	Neutral
+entregue antes prazo	608	delivered before time	[('delivered', 'v'), ('before', None), ('time', 'n')]	  deliver before time	0.0	Neutral
+dia numero numero	564	day number number	[('day', 'n'), ('number', 'n'), ('number', 'n')]	  day number number	0.1531	Neutral
+numero numero numero	474	number number number	[('number', 'n'), ('number', 'n'), ('number', 'n')]	  number number number	0.2263	Neutral
+produto chegou antes	447	product has come before	[('product', 'n'), ('has', 'v'), ('come', 'v'), ('before', None)]	  product have come before	0.0	Neutral
+entrega antes prazo	432	Delivery before deadline	[('Delivery', 'n'), ('before', None), ('deadline', 'n')]	  Delivery before deadline	0.0	Neutral
+chegou bem antes	415	arrived well before	[('arrived', 'v'), ('well', 'r'), ('before', None)]	  arrive well before	0.2732	Neutral
+produto entregue antes	374	product delivered before	[('product', 'n'), ('delivered', 'v'), ('before', None)]	  product deliver before	0.0	Neutral
+entrega super pida	297	Super Pida Delivery	[('Super', 'n'), ('Pida', 'n'), ('Delivery', 'n')]	  Super Pida Delivery	0.5994	Positive
+antes prazo previsto	287	before expected deadline	[('before', None), ('expected', 'v'), ('deadline', 'n')]	  before expect deadline	0.0	Neutral
+produto tima qualidade	257	Product Tima Quality	[('Product', 'n'), ('Tima', 'n'), ('Quality', 'n')]	  Product Tima Quality	0.0	Neutral
+ainda recebi produto	253	I still got a product	[('I', None), ('still', 'r'), ('got', 'v'), ('product', 'n')]	  I still get product	0.0	Neutral
+produto boa qualidade	232	Product good quality	[('Product', 'n'), ('good', 'a'), ('quality', 'n')]	  Product good quality	0.4404	Neutral
+entregue dentro prazo	229	delivered in term	[('delivered', 'v'), ('in', None), ('term', 'n')]	  deliver in term	0.0	Neutral
+antes prazo produto	227	Before deadline	[('Before', None), ('deadline', 'n')]	  Before deadline	0.0	Neutral
+produto entregue prazo	224	delivery product	[('delivery', 'n'), ('product', 'n')]	  delivery product	0.0	Neutral
+antes data prevista	218	before scheduled date	[('before', None), ('scheduled', 'a'), ('date', 'n')]	  before scheduled date	0.0	Neutral
+recebi antes prazo	199	I received a deadline	[('I', None), ('received', 'v'), ('deadline', 'n')]	  I receive deadline	0.0	Neutral
+perfeitas condi es	197	Perfect Condi ES	[('Perfect', 'n'), ('Condi', 'n'), ('ES', 'n')]	  Perfect Condi ES	0.5719	Positive
+antes prazo recomendo	186	Before Deadline I recommend	[('Before', None), ('Deadline', 'n'), ('I', None), ('recommend', 'v')]	  Before Deadline I recommend	0.3612	Neutral
+est parab ns	185	Esta Parabo ns	[('Parabo', 'n'), ('ns', 'n')]	  Parabo n	0.0	Neutral
+chegou dentro prazo	181	arrived in a deadline	[('arrived', 'v'), ('in', None), ('deadline', 'n')]	  arrive in deadline	0.0	Neutral
+antes prazo estipulado	179	Before stipulated deadline	[('Before', None), ('stipulated', 'v'), ('deadline', 'n')]	  Before stipulate deadline	0.0	Neutral
+entrega pida produto	168	Delivery Pida Product	[('Delivery', 'n'), ('Pida', 'n'), ('Product', 'n')]	  Delivery Pida Product	0.0	Neutral
+produto chegou prazo	165	Product arrived deadline	[('Product', 'n'), ('arrived', 'v'), ('deadline', 'n')]	  Product arrive deadline	0.0	Neutral
+produto chegou bem	162	product arrived well	[('product', 'n'), ('arrived', 'v'), ('well', 'r')]	  product arrive well	0.2732	Neutral
+entrega dentro prazo	162	delivery in term	[('delivery', 'n'), ('in', None), ('term', 'n')]	  delivery in term	0.0	Neutral
+numero numero at	143	number number	[('number', 'n'), ('number', 'n')]	  number number	0.1531	Neutral
+nao recebi produto	141	I did not recieve the product	[('I', None), ('did', 'v'), ('not', 'r'), ('recieve', 'v'), ('the', None), ('product', 'n')]	  I do not recieve the product	0.0	Neutral
+recebi produto antes	130	I received a product before	[('I', None), ('received', 'v'), ('product', 'n'), ('before', None)]	  I receive product before	0.0	Neutral
+produto entregue dentro	128	product delivered in	[('product', 'n'), ('delivered', 'v'), ('in', None)]	  product deliver in	0.0	Neutral
+entregue bem antes	128	delivered well before	[('delivered', 'v'), ('well', 'r'), ('before', None)]	  deliver well before	0.2732	Neutral
+produto antes prazo	122	product before	[('product', 'n'), ('before', None)]	  product before	0.0	Neutral
+chegou antes previsto	121	arrived before planned	[('arrived', 'v'), ('before', None), ('planned', 'a')]	  arrive before planned	0.0	Neutral
+produto excelente qualidade	118	product excellent quality	[('product', 'n'), ('excellent', 'a'), ('quality', 'n')]	  product excellent quality	0.5719	Positive
+produto bem embalado	114	well packaged product	[('well', 'r'), ('packaged', 'v'), ('product', 'n')]	  well package product	0.2732	Neutral
+prazo bem embalado	112	well-packed	[('well-packed', 'a')]	  well-packed	0.0	Neutral
+at agora recebi	108	at now I received	[('at', None), ('now', 'r'), ('I', None), ('received', 'v')]	  at now I receive	0.0	Neutral
+at momento recebi	104	At the moment I received	[('At', None), ('the', None), ('moment', 'n'), ('I', None), ('received', 'v')]	  At the moment I receive	0.0	Neutral
+antes prazo tudo	104	before time all	[('before', None), ('time', 'n'), ('all', None)]	  before time all	0.0	Neutral
+at antes prazo	104	until deadline	[('until', None), ('deadline', 'n')]	  until deadline	0.0	Neutral
+custo benef cio	101	cost benefit	[('cost', 'n'), ('benefit', 'n')]	  cost benefit	0.4588	Neutral
+recebi apenas numero	100	I received only number	[('I', None), ('received', 'v'), ('only', 'r'), ('number', 'n')]	  I receive only number	0.0772	Neutral
+antes prazo entrega	92	before deadline delivery	[('before', None), ('deadline', 'n'), ('delivery', 'n')]	  before deadline delivery	0.0	Neutral
+antes prazo bom	90	before good term	[('before', None), ('good', 'a'), ('term', 'n')]	  before good term	0.4404	Neutral
+antes prazo super	88	Before Super Deadline	[('Before', None), ('Super', 'n'), ('Deadline', 'n')]	  Before Super Deadline	0.5994	Positive
+entrega bem antes	87	delivery well before	[('delivery', 'n'), ('well', 'n'), ('before', None)]	  delivery well before	0.2732	Neutral
+chegou antes data	87	arrived before date	[('arrived', 'v'), ('before', None), ('date', 'n')]	  arrive before date	0.0	Neutral
+at dia numero	85	at day number	[('at', None), ('day', 'n'), ('number', 'n')]	  at day number	0.0772	Neutral
+entregou antes prazo	84	delivered before	[('delivered', 'v'), ('before', None)]	  deliver before	0.0	Neutral
+produto chegou dentro	84	product reached in	[('product', 'n'), ('reached', 'v'), ('in', None)]	  product reach in	0.0258	Neutral
+quero dinheiro volta	83	I want money back	[('I', None), ('want', 'v'), ('money', 'n'), ('back', 'r')]	  I want money back	0.0772	Neutral
+numero dias antes	82	number days before	[('number', 'n'), ('days', 'n'), ('before', None)]	  number day before	0.0772	Neutral
+at agora nada	81	until nothing	[('until', None), ('nothing', 'n')]	  until nothing	0.0	Neutral
+veio bem embalado	81	came well packed	[('came', 'v'), ('well', 'r'), ('packed', 'v')]	  come well pack	0.2732	Neutral
+bem antes data	80	well before date	[('well', 'r'), ('before', None), ('date', 'n')]	  well before date	0.2732	Neutral
+prazo super recomendo	80	super recommend	[('super', 'a'), ('recommend', 'n')]	  super recommend	0.7506	Positive
+produto chegou pido	79	Product arrived Pedo	[('Product', 'n'), ('arrived', 'v'), ('Pedo', 'n')]	  Product arrive Pedo	0.0	Neutral
+produto bom entrega	78	Good delivery product	[('Good', 'a'), ('delivery', 'n'), ('product', 'n')]	  Good delivery product	0.4404	Neutral
+numero at agora	75	number at now	[('number', 'n'), ('at', None), ('now', 'r')]	  number at now	0.0772	Neutral
+prazo parab ns	74	deadline parab ns	[('deadline', 'n'), ('parab', 'n'), ('ns', 'n')]	  deadline parab n	0.0	Neutral
+produto veio defeito	73	product	[('product', 'n')]	  product	0.0	Neutral
+antes prazo bem	71	before term well	[('before', None), ('term', 'n'), ('well', 'n')]	  before term well	0.2732	Neutral
+produto conforme anunciado	70	product as announced	[('product', 'n'), ('announced', 'a')]	  product announced	0.0	Neutral
+produto entregue bem	69	product delivered well	[('product', 'n'), ('delivered', 'v'), ('well', 'r')]	  product deliver well	0.2732	Neutral
+bem antes previsto	69	well-foreseen	[('well-foreseen', 'a')]	  well-foreseen	0.0	Neutral
+prazo perfeitas condi	69	Perfect term Condi	[('Perfect', 'a'), ('term', 'n'), ('Condi', 'n')]	  Perfect term Condi	0.5719	Positive
+prazo perfeito estado	68	Perfect status	[('Perfect', 'a'), ('status', 'n')]	  Perfect status	0.5719	Positive
+chegou perfeito estado	68	arrived perfect state	[('arrived', 'v'), ('perfect', 'a'), ('state', 'n')]	  arrive perfect state	0.5719	Positive
+comprei dois produtos	67	I bought two products	[('I', None), ('bought', 'v'), ('two', None), ('products', 'n')]	  I buy two product	0.0	Neutral
+produto ainda entregue	67	product still delivered	[('product', 'n'), ('still', 'r'), ('delivered', 'v')]	  product still deliver	0.0	Neutral
+antes prazo estabelecido	67	before established deadline	[('before', None), ('established', 'v'), ('deadline', 'n')]	  before establish deadline	0.0	Neutral
+produto ainda chegou	66	product has also arrived	[('product', 'n'), ('has', 'v'), ('also', 'r'), ('arrived', 'v')]	  product have also arrive	0.0	Neutral
+timo produto entrega	66	Timo Product Delivery	[('Timo', 'n'), ('Product', 'n'), ('Delivery', 'n')]	  Timo Product Delivery	0.0	Neutral
+ainda nao recebi	65	I still have not received	[('I', None), ('still', 'r'), ('have', 'v'), ('not', 'r'), ('received', 'v')]	  I still have not receive	0.0	Neutral
+recebi produto ainda	65	I received a product yet	[('I', None), ('received', 'v'), ('product', 'n'), ('yet', 'r')]	  I receive product yet	0.0	Neutral
+recebi produto prazo	63	Received Product Term	[('Received', 'v'), ('Product', 'n'), ('Term', 'n')]	  Received Product Term	0.0	Neutral
+conforme an ncio	63	according to	[('according', 'v'), ('to', None)]	  accord to	0.0	Neutral
+numero numero recebi	62	number number received	[('number', 'n'), ('number', 'n'), ('received', 'v')]	  number number receive	0.1531	Neutral
+chegou numero dias	61	arrived number days	[('arrived', 'v'), ('number', 'n'), ('days', 'n')]	  arrive number day	0.0772	Neutral
+comprei numero produtos	61	Buy Number Products	[('Buy', 'n'), ('Number', 'n'), ('Products', 'n')]	  Buy Number Products	0.0772	Neutral
+produto entrega pida	61	Product delivery pida	[('Product', 'n'), ('delivery', 'n'), ('pida', 'n')]	  Product delivery pida	0.0	Neutral
+dentro prazo produto	60	within term product	[('within', None), ('term', 'n'), ('product', 'n')]	  within term product	0.0	Neutral
+at numero numero	60	At number number	[('At', None), ('number', 'n'), ('number', 'n')]	  At number number	0.1531	Neutral
+entrega prazo produto	59	delivery product product	[('delivery', 'n'), ('product', 'n'), ('product', 'n')]	  delivery product product	0.0	Neutral
+antes prazo parab	59	before parab	[('before', None), ('parab', 'n')]	  before parab	0.0	Neutral
+antes prazo perfeito	59	before perfect term	[('before', None), ('perfect', 'a'), ('term', 'n')]	  before perfect term	0.5719	Positive
+dias antes prazo	58	days before time	[('days', 'n'), ('before', None), ('time', 'n')]	  day before time	0.0	Neutral
+chegou super pido	57	Arrived Super Pedo	[('Arrived', 'n'), ('Super', 'n'), ('Pedo', 'n')]	  Arrived Super Pedo	0.5994	Positive
+produto ssima qualidade	56	SSIMA QUALITY PRODUCT	[('SSIMA', 'n'), ('QUALITY', 'n'), ('PRODUCT', 'n')]	  SSIMA QUALITY PRODUCT	0.0	Neutral
+numero numero ainda	56	number number yet	[('number', 'n'), ('number', 'n'), ('yet', 'r')]	  number number yet	0.1531	Neutral
+entrega dia numero	56	Delivery day number	[('Delivery', 'n'), ('day', 'n'), ('number', 'n')]	  Delivery day number	0.0772	Neutral
+chegou bem embalado	54	arrived well packaged	[('arrived', 'v'), ('well', 'r'), ('packaged', 'v')]	  arrive well package	0.2732	Neutral
+comprei numero unidades	54	I bought number units	[('I', None), ('bought', 'v'), ('number', 'n'), ('units', 'n')]	  I buy number unit	0.0772	Neutral
+produto dentro prazo	53	Product in term	[('Product', 'n'), ('in', None), ('term', 'n')]	  Product in term	0.0	Neutral
+deu tudo certo	53	everything worked	[('everything', 'n'), ('worked', 'v')]	  everything work	0.0	Neutral
+produto veio errado	53	Product came wrong	[('Product', 'n'), ('came', 'v'), ('wrong', 'a')]	  Product come wrong	-0.4767	Negative
+entregue antes data	52	delivered before date	[('delivered', 'v'), ('before', None), ('date', 'n')]	  deliver before date	0.0	Neutral
+produto entregue conforme	51	product delivered according to	[('product', 'n'), ('delivered', 'v'), ('according', 'v'), ('to', None)]	  product deliver accord to	0.0	Neutral
+chegou at antes	51	arrived before	[('arrived', 'v'), ('before', None)]	  arrive before	0.0	Neutral
+prazo produto bom	51	term good product	[('term', 'n'), ('good', 'a'), ('product', 'n')]	  term good product	0.4404	Neutral
+antes prazo excelente	50	Before excellent	[('Before', None), ('excellent', 'a')]	  Before excellent	0.5719	Positive
+recebi produto errado	50	I received a wrong product	[('I', None), ('received', 'v'), ('wrong', 'a'), ('product', 'n')]	  I receive wrong product	-0.4767	Negative
+recebi bem antes	50	I got well before	[('I', None), ('got', 'v'), ('well', 'r'), ('before', None)]	  I get well before	0.2732	Neutral
+produto chegou perfeito	49	Product arrived Perfect	[('Product', 'n'), ('arrived', 'v'), ('Perfect', 'n')]	  Product arrive Perfect	0.5719	Positive
+antes prazo determinado	49	before determined deadline	[('before', None), ('determined', 'v'), ('deadline', 'n')]	  before determine deadline	0.0	Neutral
+rel gio lindo	48	beautiful watch	[('beautiful', 'a'), ('watch', 'n')]	  beautiful watch	0.5994	Positive
+bom chegou antes	48	Good has come before	[('Good', 'n'), ('has', 'v'), ('come', 'v'), ('before', None)]	  Good have come before	0.4404	Neutral
+entregue dia numero	48	deliver day number	[('deliver', 'r'), ('day', 'n'), ('number', 'n')]	  deliver day number	0.0772	Neutral
+veio antes prazo	48	came before deadline	[('came', 'v'), ('before', None), ('deadline', 'n')]	  come before deadline	0.0	Neutral
+agora recebi produto	47	now I received a product	[('now', 'r'), ('I', None), ('received', 'v'), ('product', 'n')]	  now I receive product	0.0	Neutral
+recebi produto dentro	47	I received a product in	[('I', None), ('received', 'v'), ('product', 'n'), ('in', None)]	  I receive product in	0.0	Neutral
+prazo numero dias	47	term number days	[('term', 'n'), ('number', 'n'), ('days', 'n')]	  term number day	0.0772	Neutral
+entrega feita antes	47	Delivery made before	[('Delivery', 'n'), ('made', 'v'), ('before', None)]	  Delivery make before	0.0	Neutral
+recebi produto at	47	I received product at	[('I', None), ('received', 'v'), ('product', 'n'), ('at', None)]	  I receive product at	0.0	Neutral
+produto veio bem	46	product came well	[('product', 'n'), ('came', 'v'), ('well', 'r')]	  product come well	0.2732	Neutral
+numero numero chegou	46	number number has arrived	[('number', 'n'), ('number', 'n'), ('has', 'v'), ('arrived', 'v')]	  number number have arrive	0.1531	Neutral
+recebi produto correto	45	I received correct product	[('I', None), ('received', 'v'), ('correct', 'a'), ('product', 'n')]	  I receive correct product	0.0	Neutral
+entrega pida recomendo	45	Delivery Pida I recommend	[('Delivery', 'n'), ('Pida', 'n'), ('I', None), ('recommend', 'v')]	  Delivery Pida I recommend	0.3612	Neutral
+super pida produto	45	Super Pida Product	[('Super', 'n'), ('Pida', 'n'), ('Product', 'n')]	  Super Pida Product	0.5994	Positive
+momento recebi produto	45	moment	[('moment', 'n')]	  moment	0.0	Neutral
+produto atendeu expectativas	45	Product attended expectations	[('Product', 'n'), ('attended', 'v'), ('expectations', 'n')]	  Product attend expectation	0.0	Neutral
+produto qualidade entrega	44	Product quality delivery	[('Product', 'n'), ('quality', 'n'), ('delivery', 'n')]	  Product quality delivery	0.0	Neutral
+entregaram antes prazo	44	delivered before time	[('delivered', 'v'), ('before', None), ('time', 'n')]	  deliver before time	0.0	Neutral
+chegou antes esperado	44	arrived before expected	[('arrived', 'v'), ('before', None), ('expected', 'v')]	  arrive before expect	0.0	Neutral
+bom entrega pida	44	Good delivery Pida	[('Good', 'a'), ('delivery', 'n'), ('Pida', 'n')]	  Good delivery Pida	0.4404	Neutral
+pida antes prazo	44	pida before deadline	[('pida', 'n'), ('before', None), ('deadline', 'n')]	  pida before deadline	0.0	Neutral
+hoje dia numero	44	today number number	[('today', 'n'), ('number', 'n'), ('number', 'n')]	  today number number	0.1531	Neutral
+timo produto chegou	43	Timo product arrived	[('Timo', 'n'), ('product', 'n'), ('arrived', 'v')]	  Timo product arrive	0.0	Neutral
+qualidade chegou antes	43	quality has arrived before	[('quality', 'n'), ('has', 'v'), ('arrived', 'v'), ('before', None)]	  quality have arrive before	0.0	Neutral
+recebi produto bem	42	I received a product well	[('I', None), ('received', 'v'), ('product', 'n'), ('well', 'n')]	  I receive product well	0.2732	Neutral
+numero dias teis	42	Numero Dias Teis	[('Numero', 'n'), ('Dias', 'n'), ('Teis', 'n')]	  Numero Dias Teis	0.0	Neutral
+produto bom recomendo	42	Good Product Recommend	[('Good', 'a'), ('Product', 'n'), ('Recommend', 'n')]	  Good Product Recommend	0.6597	Positive
+produto bom chegou	42	Good product	[('Good', 'a'), ('product', 'n')]	  Good product	0.4404	Neutral
+antes prazo informado	42	before term informed	[('before', None), ('term', 'n'), ('informed', 'v')]	  before term inform	0.0	Neutral
+entrega antes previsto	42	Previous delivery	[('Previous', 'a'), ('delivery', 'n')]	  Previous delivery	0.0	Neutral
+antes prazo final	42	before final deadline	[('before', None), ('final', 'a'), ('deadline', 'n')]	  before final deadline	0.0	Neutral
+hoje numero numero	42	today number number	[('today', 'n'), ('number', 'n'), ('number', 'n')]	  today number number	0.1531	Neutral
+produto entregue corretamente	41	Product delivered correctly	[('Product', 'n'), ('delivered', 'v'), ('correctly', 'r')]	  Product deliver correctly	0.0	Neutral
+recebi dentro prazo	41	I received in term	[('I', None), ('received', 'v'), ('in', None), ('term', 'n')]	  I receive in term	0.0	Neutral
+tima qualidade recomendo	41	Tima Quality I recommend	[('Tima', 'n'), ('Quality', 'n'), ('I', None), ('recommend', 'v')]	  Tima Quality I recommend	0.3612	Neutral
+dentro prazo recomendo	41	Inside Deadline I recommend	[('Inside', None), ('Deadline', 'n'), ('I', None), ('recommend', 'v')]	  Inside Deadline I recommend	0.3612	Neutral
+entrega pida antes	40	pida delivery before	[('pida', 'a'), ('delivery', 'n'), ('before', None)]	  pida delivery before	0.0	Neutral
+antes prazo satisfeita	40	Before satisfied	[('Before', None), ('satisfied', 'a')]	  Before satisfied	0.4215	Neutral
+antes prazo estimado	40	before estimated deadline	[('before', None), ('estimated', 'v'), ('deadline', 'n')]	  before estimate deadline	0.0	Neutral
+entrega super rapida	40	Super fast delivery	[('Super', 'n'), ('fast', 'n'), ('delivery', 'n')]	  Super fast delivery	0.5994	Positive
+antes prazo veio	40	before deadline came	[('before', None), ('deadline', 'n'), ('came', 'v')]	  before deadline come	0.0	Neutral
+produto otima qualidade	40	product otima quality	[('product', 'n'), ('otima', None), ('quality', 'n')]	  product otima quality	0.0	Neutral
+chegou bem pido	40	arrived well asked	[('arrived', 'v'), ('well', 'r'), ('asked', 'v')]	  arrive well ask	0.2732	Neutral
+feita antes prazo	40	done before deadline	[('done', 'v'), ('before', None), ('deadline', 'n')]	  do before deadline	0.0	Neutral
+qualidade entrega pida	40	Quality delivery pida	[('Quality', 'n'), ('delivery', 'n'), ('pida', 'n')]	  Quality delivery pida	0.0	Neutral
+antes prazo adorei	39	before deadline I loved	[('before', None), ('deadline', 'n'), ('I', None), ('loved', 'v')]	  before deadline I love	0.6369	Positive
+tima qualidade entrega	39	Tima Quality Delivery	[('Tima', 'n'), ('Quality', 'n'), ('Delivery', 'n')]	  Tima Quality Delivery	0.0	Neutral
+recomendo loja produto	39	Recommend Product Store	[('Recommend', 'a'), ('Product', 'n'), ('Store', 'n')]	  Recommend Product Store	0.3612	Neutral
+chegou tudo certo	39	It's all right	"[('It', None), (""'s"", 'v'), ('all', None), ('right', 'n')]"	  It 's all right	0.0	Neutral
+tudo certo produto	39	All right product	[('All', None), ('right', 'a'), ('product', 'n')]	  All right product	0.0	Neutral
+prazo tudo ok	39	term all ok	[('term', 'n'), ('all', None), ('ok', 'v')]	  term all ok	0.296	Neutral
+veio tudo certinho	39	Everything came right	[('Everything', 'n'), ('came', 'v'), ('right', 'r')]	  Everything come right	0.0	Neutral
+numero at hoje	39	number at today	[('number', 'n'), ('at', None), ('today', 'n')]	  number at today	0.0772	Neutral
+antes prazo combinado	38	before combined	[('before', None), ('combined', 'v')]	  before combine	0.0	Neutral
+antes prazo amei	38	before deadline I loved	[('before', None), ('deadline', 'n'), ('I', None), ('loved', 'v')]	  before deadline I love	0.6369	Positive
+cart cr dito	38	Cart Cr said	[('Cart', 'n'), ('Cr', 'n'), ('said', 'v')]	  Cart Cr say	0.0	Neutral
+recebi somente numero	38	I received only number	[('I', None), ('received', 'v'), ('only', 'r'), ('number', 'n')]	  I receive only number	0.0772	Neutral
+fiz compra numero	37	I made a number	[('I', None), ('made', 'v'), ('number', 'n')]	  I make number	0.0772	Neutral
+at agora chegou	37	at now arrived	[('at', None), ('now', 'r'), ('arrived', 'v')]	  at now arrive	0.0	Neutral
+timo custo benef	37	Timo Cost Benef	[('Timo', 'n'), ('Cost', 'n'), ('Benef', 'n')]	  Timo Cost Benef	0.0	Neutral
+bem embalado recomendo	37	Well packed recommend	[('Well', 'r'), ('packed', 'v'), ('recommend', 'n')]	  Well pack recommend	0.5574	Positive
+timo produto recomendo	37	Timo product recommend	[('Timo', 'n'), ('product', 'n'), ('recommend', 'n')]	  Timo product recommend	0.3612	Neutral
+at hoje recebi	37	at today I received	[('at', None), ('today', 'n'), ('I', None), ('received', 'v')]	  at today I receive	0.0	Neutral
+at presente data	36	At present date	[('At', None), ('present', 'a'), ('date', 'n')]	  At present date	0.0	Neutral
+produto at agora	36	product at now	[('product', 'n'), ('at', None), ('now', 'r')]	  product at now	0.0	Neutral
+numero numero hoje	36	number number today	[('number', 'n'), ('number', 'n'), ('today', 'n')]	  number number today	0.1531	Neutral
+prazo tudo certo	36	all right	[('all', None), ('right', 'n')]	  all right	0.0	Neutral
+at presente momento	36	At present moment	[('At', None), ('present', 'a'), ('moment', 'n')]	  At present moment	0.0	Neutral
+produto bem antes	35	product well before	[('product', 'n'), ('well', 'n'), ('before', None)]	  product well before	0.2732	Neutral
+prazo entrega produto	35	Deadline Delivery Product	[('Deadline', 'a'), ('Delivery', 'n'), ('Product', 'n')]	  Deadline Delivery Product	0.0	Neutral
+entrega numero dias	35	Delivery number days	[('Delivery', 'n'), ('number', 'n'), ('days', 'n')]	  Delivery number day	0.0772	Neutral
+bom produto chegou	35	good product has arrived	[('good', 'a'), ('product', 'n'), ('has', 'v'), ('arrived', 'v')]	  good product have arrive	0.4404	Neutral
+chegou perfeitas condi	35	Condi arrived	[('Condi', 'n'), ('arrived', 'v')]	  Condi arrive	0.0	Neutral
+antes prazo gostei	34	before deadline I liked it	[('before', None), ('deadline', 'n'), ('I', None), ('liked', 'v'), ('it', None)]	  before deadline I like it	0.3612	Neutral
+recomendo produto loja	34	Recommend product store	[('Recommend', 'a'), ('product', 'n'), ('store', 'n')]	  Recommend product store	0.3612	Neutral
+numero at momento	34	number at the moment	[('number', 'n'), ('at', None), ('the', None), ('moment', 'n')]	  number at the moment	0.0772	Neutral
+timas condi es	34	Timas Condi ES	[('Timas', 'n'), ('Condi', 'n'), ('ES', 'n')]	  Timas Condi ES	0.0	Neutral
+loja confi vel	33	confident store	[('confident', 'a'), ('store', 'n')]	  confident store	0.4939	Neutral
+dentro prazo estipulado	33	within stipulated deadline	[('within', None), ('stipulated', 'v'), ('deadline', 'n')]	  within stipulate deadline	0.0	Neutral
+produto prazo entrega	33	Product term delivery	[('Product', 'n'), ('term', 'n'), ('delivery', 'n')]	  Product term delivery	0.0	Neutral
+entrega numero numero	33	Delivery number number	[('Delivery', 'n'), ('number', 'n'), ('number', 'n')]	  Delivery number number	0.1531	Neutral
+produto timo entrega	33	product thymus delivery	[('product', 'n'), ('thymus', 'n'), ('delivery', 'n')]	  product thymus delivery	0.0	Neutral
+super recomendo produto	32	Super Recommend Product	[('Super', 'n'), ('Recommend', 'n'), ('Product', 'n')]	  Super Recommend Product	0.7506	Positive
+produto excelente entrega	32	Great delivery product	[('Great', 'a'), ('delivery', 'n'), ('product', 'n')]	  Great delivery product	0.6249	Positive
+chegou dia numero	32	It arrived day number	[('It', None), ('arrived', 'v'), ('day', 'n'), ('number', 'n')]	  It arrive day number	0.0772	Neutral
+bem antes esperado	32	well-expected	[('well-expected', 'a')]	  well-expected	0.0	Neutral
+desde dia numero	32	number	[('number', 'n')]	  number	0.0772	Neutral
+produto perfeito estado	32	Perfect product status	[('Perfect', 'n'), ('product', 'n'), ('status', 'n')]	  Perfect product status	0.5719	Positive
+prazo tudo certinho	32	term all right	[('term', 'n'), ('all', None), ('right', 'n')]	  term all right	0.0	Neutral
+dentro prazo bem	32	within term	[('within', None), ('term', 'n')]	  within term	0.0	Neutral
+produto entrega antes	32	product delivery before	[('product', 'n'), ('delivery', 'n'), ('before', None)]	  product delivery before	0.0	Neutral
+entrega realizada antes	31	Delivery held before	[('Delivery', 'n'), ('held', 'v'), ('before', None)]	  Delivery hold before	0.0	Neutral
+nota fiscal veio	31	invoice came	[('invoice', 'n'), ('came', 'v')]	  invoice come	0.0	Neutral
